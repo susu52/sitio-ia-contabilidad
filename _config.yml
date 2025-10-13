@@ -1,0 +1,18 @@
+title: "Guillermo Correa - Contador Público"
+description: "Explorando IA en Contabilidad - Especialista en inteligencia artificial aplicada a la contabilidad"
+baseurl: ""
+url: "https://iacontabilidadguillermo.com"
+
+theme: minima
+
+author:
+  name: "Guillermo Correa"
+  email: "guicolo52@gmail.com"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Para forzar modo Jekyll
+markdown: kramdown
+highlighter: rouge
