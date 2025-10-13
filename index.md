@@ -46,7 +46,7 @@ title: Inicio
             {% for post in site.posts limit:3 %}
             <div class="col-md-4">
                 <div class="card">
-                    <img src="{{ post.image | default: '/assets/images/ai_accounting_1.jpg' }}" class="card-img-top" alt="{{ post.title }}">
+                    <img src="{{ post.image | default: '/assets/images/ai_accounting_4-DEV_LkHs.png' }}" class="card-img-top" alt="{{ post.title }}">
                     <div class="card-body">
                         <span class="badge bg-primary mb-2">{{ post.categories[0] }}</span>
                         <h5 class="card-title">{{ post.title }}</h5>
