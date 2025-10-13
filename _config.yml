@@ -3,16 +3,7 @@ description: "Explorando IA en Contabilidad - Especialista en inteligencia artif
 baseurl: ""
 url: "https://iacontabilidadguillermo.com"
 
+permalink: /:year/:month/:day/:title:output_ext  # ← AÑADE ESTA LÍNEA
+
 theme: minima
-
-author:
-  name: "Guillermo Correa"
-  email: "guicolo52@gmail.com"
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Para forzar modo Jekyll
-markdown: kramdown
-highlighter: rouge
+# ... el resto de tu configuración
