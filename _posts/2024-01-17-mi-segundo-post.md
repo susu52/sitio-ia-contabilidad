@@ -3,6 +3,7 @@ layout: post
 title: "Mi segunda semana con IA: estos fueron los resultados reales"
 date: 2025-01-17
 categories: [IA, Productividad]
+image: /assets/images/ai_accounting_3-BPI1jG-g.jpg
 ---
 
 ## 🧭 **De la expectativa a la acción**
