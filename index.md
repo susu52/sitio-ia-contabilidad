@@ -53,7 +53,7 @@ title: Inicio
                         <p class="card-text">{{ post.excerpt | strip_html | truncate: 120 }}</p>
                         <div class="d-flex justify-content-between align-items-center">
                             <small class="text-muted">{{ post.date | date: "%b %Y" }}</small>
-                            <a href="{{ post.url }}" class="btn btn-sm btn-outline-primary">Leer más</a>
+                            <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-sm btn-outline-primary">Leer más</a>
                         </div>
                     </div>
                 </div>
