@@ -2,6 +2,7 @@
 layout: post
 title: "Mi Primera Semana Usando IA en la Contabilidad"
 date: 2024-01-16
+image: /assets/images/ai_accounting_1.jpg
 categories: [experiencia, ia]
 author: Guillermo Correa
 ---
