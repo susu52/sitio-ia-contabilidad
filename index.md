@@ -46,7 +46,7 @@ title: Inicio
             {% for post in site.posts limit:3 %}
             <div class="col-md-4">
                 <div class="card">
-                    <img src="{{ post.image | default: '/assets/images/ai_accounting_4-DEV_LkHs.png' }}" class="card-img-top" alt="{{ post.title }}">
+                    <img src="{{ post.image | default: '/assets/images/ai_accounting_4.png' }}" class="card-img-top" alt="{{ post.title }}">
                     <div class="card-body">
                         <span class="badge bg-primary mb-2">{{ post.categories[0] }}</span>
                         <h5 class="card-title">{{ post.title }}</h5>
@@ -145,7 +145,7 @@ title: Inicio
                         </div>
                         <div class="text-center mt-4">
                             <p class="text-muted">¿Interesado en conversar sobre contabilidad e IA? ¡No dudes en contactarme!</p>
-                            <a href="mailto:{{ site.author.email }}" class="btn btn-primary">Enviar Email</a>
+                            <a href="mailto:guicolo52@gmail.com" class="btn btn-primary">Enviar Email</a>
                         </div>
                     </div>
                 </div>
