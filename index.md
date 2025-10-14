@@ -136,7 +136,7 @@ title: Inicio
                         <div class="row text-center">
                             <div class="col-md-6 mb-3">
                                 <h5>📧 Email</h5>
-                                <p class="text-muted">{{ site.author.email }}</p>
+                                <p class="text-muted">guicolo52@gmail.com</p>
                             </div>
                             <div class="col-md-6 mb-3">
                                 <h5>📍 Ubicación</h5>
