@@ -125,28 +125,42 @@ title: Inicio
 </section>
 
 <!-- Contacto Section -->
-<section id="contacto" class="section section-alt">
+<section id="contacto-form" class="section">
     <div class="container">
-        <h2 class="text-center mb-5">Contacto</h2>
+        <h2 class="text-center mb-5">Contáctame</h2>
         
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <div class="card">
-                    <div class="card-body">
-                        <div class="row text-center">
-                            <div class="col-md-6 mb-3">
-                                <h5>📧 Email</h5>
-                                <p class="text-muted">guicolo52@gmail.com</p>
+                <div class="card shadow">
+                    <div class="card-body p-4">
+                        <form action="https://formspree.io/f/xjkajrve" method="POST">
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label for="nombre" class="form-label">Nombre completo *</label>
+                                    <input type="text" class="form-control" id="nombre" name="nombre" required>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label for="email" class="form-label">Email *</label>
+                                    <input type="email" class="form-control" id="email" name="email" required>
+                                </div>
                             </div>
-                            <div class="col-md-6 mb-3">
-                                <h5>📍 Ubicación</h5>
-                                <p class="text-muted">Colombia</p>
+                            
+                            <div class="mb-3">
+                                <label for="asunto" class="form-label">Asunto *</label>
+                                <input type="text" class="form-control" id="asunto" name="asunto" required>
                             </div>
-                        </div>
-                        <div class="text-center mt-4">
-                            <p class="text-muted">¿Interesado en conversar sobre contabilidad e IA? ¡No dudes en contactarme!</p>
-                            <a href="mailto:guicolo52@gmail.com" class="btn btn-primary">Enviar Email</a>
-                        </div>
+                            
+                            <div class="mb-3">
+                                <label for="mensaje" class="form-label">Mensaje *</label>
+                                <textarea class="form-control" id="mensaje" name="mensaje" rows="5" required></textarea>
+                            </div>
+                            
+                            <div class="text-center">
+                                <button type="submit" class="btn btn-primary btn-lg">
+                                    📨 Enviar Mensaje
+                                </button>
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>
