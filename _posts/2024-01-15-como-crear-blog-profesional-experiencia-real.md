@@ -5,7 +5,12 @@ date: 2024-01-15
 categories: [blogging, experiencia]
 author: Gonzalo Gonzáles
 ---
-
+<img src="/assets/images/ai_accounting_1.jpg" 
+     alt="Automatización de procesos contables con IA" 
+     class="img-fluid rounded shadow-sm mx-auto d-block" 
+     style="max-width: 600px; width: 90%; 
+            max-width: 90% !important;">
+            
 ## 🚀 **CÓMO CREAR UN BLOG PROFESIONAL EN TIEMPO RÉCORD: MI EXPERIENCIA REAL**
 
 *¿Cansado de ver tutoriales que prometen milagros en 30 días? Aquí te cuento cómo logré un blog profesional funcional en pocos días, no meses.*
