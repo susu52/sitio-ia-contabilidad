@@ -11,8 +11,6 @@ author: Guillermo Correa
      class="img-fluid rounded shadow-sm mx-auto d-block" 
      style="max-width: 600px; width: 90%; 
             max-width: 90% !important;">
-            
-# Mi Primera Semana Usando IA en la Contabilidad
 
 ## El Inicio del Viaje
 
