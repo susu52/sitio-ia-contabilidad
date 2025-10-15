@@ -8,7 +8,7 @@ description: "Cómo implementé un sistema automatizado para conciliaciones banc
 author: Guillermo Correa
 ---
 
-<img src="/assets/images/ai_accounting_2.jpg" 
+<img src="/assets/images/ai_accounting_4.png" 
      alt="Automatización de procesos contables con IA" 
      class="img-fluid rounded shadow-sm mx-auto d-block" 
      style="max-width: 600px; width: 90%; 
