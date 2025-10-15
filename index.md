@@ -125,7 +125,7 @@ title: Inicio
 </section>
 
 <!-- Contacto Section -->
-<section id="contacto-form" class="section">
+<section id="contacto" class="section">
     <div class="container">
         <h2 class="text-center mb-5">Contáctame</h2>
         
