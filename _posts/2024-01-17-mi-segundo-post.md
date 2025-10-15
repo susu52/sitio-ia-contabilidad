@@ -5,6 +5,11 @@ date: 2025-01-17
 categories: [IA, Productividad]
 image: /assets/images/ai_accounting_3.jpg
 ---
+<img src="/assets/images/ai_accounting_3.jpg" 
+     alt="Automatización de procesos contables con IA" 
+     class="img-fluid rounded shadow-sm mx-auto d-block" 
+     style="max-width: 600px; width: 90%; 
+            max-width: 90% !important;">
 
 ## 🧭 **De la expectativa a la acción**
 
