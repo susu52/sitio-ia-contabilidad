@@ -3,7 +3,7 @@ layout: post
 title: "Automatización de Conciliaciones Bancarias con IA: Mi Primer Flujo Exitoso"
 date: 2025-01-20 08:00:00 -0500
 categories: [IA, Contabilidad, Automatización]
-image: /assets/images/ai_accounting_3.jpg
+image: /assets/images/ai_accounting_2.jpg
 description: "Cómo implementé un sistema automatizado para conciliaciones bancarias usando prompts de IA, reduciendo tiempo y errores."
 author: Guillermo Correa
 ---
