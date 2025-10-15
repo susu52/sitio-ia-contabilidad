@@ -3,7 +3,7 @@ layout: post
 title: "Cómo crear un blog profesional en tiempo récord: Mi experiencia real"
 date: 2024-01-15
 categories: [blogging, experiencia]
-author: Gonzalo Gonzáles
+author: Gonzalo González
 ---
 <img src="/assets/images/ai_accounting_4.png" 
      alt="Automatización de procesos contables con IA" 
@@ -11,9 +11,7 @@ author: Gonzalo Gonzáles
      style="max-width: 600px; width: 90%; 
             max-width: 90% !important;">
             
-## 🚀 **CÓMO CREAR UN BLOG PROFESIONAL EN TIEMPO RÉCORD: MI EXPERIENCIA REAL**
-
-*¿Cansado de ver tutoriales que prometen milagros en 30 días? Aquí te cuento cómo logré un blog profesional funcional en pocos días, no meses.*
+*🚀 ¿Cansado de ver tutoriales que prometen milagros en 30 días? Aquí te cuento cómo logré un blog profesional funcional en pocos días, no meses.*
 
 ### 📖 **MI HISTORIA: DE CERO A HÉROE DIGITAL**
 Hace exactamente 10 días, estaba donde tú probablemente estás ahora: con la idea clara pero sin saber por dónde empezar. Hoy tengo un blog 100% profesional, responsive, y con contenido de valor. ¿La clave? **Enfoque estratégico + herramientas correctas.**
