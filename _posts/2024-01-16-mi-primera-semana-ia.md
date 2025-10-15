@@ -6,7 +6,12 @@ image: /assets/images/ai_accounting_1.jpg
 categories: [experiencia, ia]
 author: Guillermo Correa
 ---
-
+<img src="/assets/images/ai_accounting_1.jpg" 
+     alt="Automatización de procesos contables con IA" 
+     class="img-fluid rounded shadow-sm mx-auto d-block" 
+     style="max-width: 600px; width: 90%; 
+            max-width: 90% !important;">
+            
 # Mi Primera Semana Usando IA en la Contabilidad
 
 ## El Inicio del Viaje
