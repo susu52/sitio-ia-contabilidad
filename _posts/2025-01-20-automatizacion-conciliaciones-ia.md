@@ -11,7 +11,8 @@ author: Guillermo Correa
 <img src="/assets/images/ai_accounting_2.jpg" 
      alt="Automatización de procesos contables con IA" 
      class="img-fluid rounded shadow-sm mx-auto d-block" 
-     style="max-width: 600px; width: 100%;">
+     style="max-width: 600px; width: 90%; 
+            max-width: 90% !important;">
 
 ## 🎯 Introducción
 Las conciliaciones bancarias mensuales solían tomarme horas de trabajo manual, con alto riesgo de errores. Decidí explorar cómo la IA podría optimizar este proceso crítico en la contabilidad.
