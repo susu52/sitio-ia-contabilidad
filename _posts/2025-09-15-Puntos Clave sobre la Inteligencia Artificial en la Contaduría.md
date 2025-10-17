@@ -4,6 +4,7 @@ title: "🎯️10 Puntos Clave sobre la Inteligencia Artificial en la Contadurí
 date: 2025-09-15
 categories: [puntos,contaduria]
 author: Guillermo Correa L.
+image: /assets/images/ai_accounting_7.jpg
 ---
 <img src="/assets/images/ai_accounting_7.jpg" 
      alt="Automatización de procesos contables con IA" 
