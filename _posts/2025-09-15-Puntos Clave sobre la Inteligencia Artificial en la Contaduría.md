@@ -5,7 +5,7 @@ date: 2025-09-15
 categories: [puntos,contaduria]
 author: Guillermo Correa L.
 ---
-<img src="/assets/images/ai_accounting_6.jpg" 
+<img src="/assets/images/ai_accounting_7.jpg" 
      alt="Automatización de procesos contables con IA" 
      class="img-fluid rounded shadow-sm mx-auto d-block" 
      style="max-width: 600px; width: 90%; 
