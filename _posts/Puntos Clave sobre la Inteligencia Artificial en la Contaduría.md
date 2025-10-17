@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 Puntos Clave sobre la Inteligencia Artificial en la Contaduría"
-date: 2024-09-15
+date: 2025-09-15
 categories: [Puntos Clave, Contaduría]
 author: Guillermo Correa L.
 ---
