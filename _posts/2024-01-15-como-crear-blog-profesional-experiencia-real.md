@@ -4,6 +4,7 @@ title: "Cómo crear un blog profesional en tiempo récord: Mi experiencia real"
 date: 2024-01-15
 categories: [blogging, experiencia]
 author: Gonzalo González
+image: /assets/images/ai_accounting_2.jpg
 ---
 <img src="/assets/images/ai_accounting_2.jpg" 
      alt="Automatización de procesos contables con IA" 
