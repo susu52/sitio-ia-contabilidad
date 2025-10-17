@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎯️10 Puntos Clave sobre la Inteligencia Artificial en la Contaduría"
+title: "10 Puntos Clave sobre la Inteligencia Artificial en la Contaduría"
 date: 2024-09-15
 categories: [10 Puntos Clave, Contaduría]
 author: Guillermo Correa L.
