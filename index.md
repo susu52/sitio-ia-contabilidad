@@ -6,8 +6,8 @@ title: Inicio
 <!-- Hero Section -->
 <section class="hero text-center">
     <div class="container">
-        <h1 class="display-5 fw-bold mb-4">Explorando IA en Contabilidad</h1>
-        <p class="lead mb-4">Un espacio para aprender y compartir sobre inteligencia artificial aplicada a la contabilidad</p>
+        <h1 class="display-5 fw-bold mb-4">Explorando la IA en Contabilidad</h1>
+        <p class="lead mb-4">Un espacio para Aprender y Compartir sobre Inteligencia Artificial Aplicada a la Contabilidad</p>
         <a href="/blog" class="btn btn-light btn-lg">Ver Artículos</a>
     </div>
 </section>
