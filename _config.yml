@@ -4,7 +4,7 @@ baseurl: ""
 
 url: "https://iacontabilidadguillermo.com"
 
-permalink: /:title/  # ← AÑADE ESTA LÍNEA
+permalink: /blog/:title/ ← AÑADE ESTA LÍNEA
 
 theme: minima
 # ... el resto de tu configuración
