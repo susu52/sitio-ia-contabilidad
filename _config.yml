@@ -3,7 +3,7 @@ description: "Explorando La IA en Contabilidad - Especialista en inteligencia ar
 baseurl: ""
 url: "https://iacontabilidadguillermo.com"
 
-permalink: /:year/:month/:day/:title.html  # ← AÑADE ESTA LÍNEA
+permalink: /:title/  # ← AÑADE ESTA LÍNEA
 
 theme: minima
 # ... el resto de tu configuración
