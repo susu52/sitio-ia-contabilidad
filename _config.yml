@@ -4,7 +4,7 @@ baseurl: ""
 
 url: "https://iacontabilidadguillermo.com"
 
-permalink: pretty ← AÑADE ESTA LÍNEA
+permalink: pretty
 
 theme: minima
 # ... el resto de tu configuración
